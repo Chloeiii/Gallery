@@ -1,2 +1,3 @@
-:art:
-made using Adobe Illustrator CC
+
+## made using Adobe Illustrator CC  :art:
+<img src="girl.jpg" width="400"/>
